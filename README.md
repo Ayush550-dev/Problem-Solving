@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0012-integer-to-roman) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
