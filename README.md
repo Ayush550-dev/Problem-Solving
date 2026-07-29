@@ -32,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
