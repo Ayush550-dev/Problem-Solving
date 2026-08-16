@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Ayush550-dev/Problem-Solving/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
